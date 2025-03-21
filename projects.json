@@ -1,0 +1,5 @@
+[
+    { "name": "Portfolio Website", "language": "HTML, CSS, JavaScript" },
+    { "name": "Weather App", "language": "JavaScript, OpenWeather API" },
+    { "name": "Simple Calculator", "language": "JavaScript, CSS" }
+]
