@@ -6,7 +6,7 @@ Lab7
 * *Date Created*: DD MMM YYYY 14/03/2025
 * *Last Modification Date*: DD MMM YYYY 21/03/2025
 * *Lab URL*: <http://example.com/>
-Netlify: https://reacteporfolio.netlify.app/
+Netlify: https://app-portfolio-lab7.netlify.app
 Personal Github: https://github.com/Billy746/lab7.git
 Gitlab: https://git.cs.dal.ca/oguntokun/csci3172.git
 
